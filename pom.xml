@@ -3,6 +3,7 @@
   <groupId>DEMO.com</groupId>
   <artifactId>DEMO</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
   <name>demproj</name>
   <build>
     <sourceDirectory>src</sourceDirectory>
